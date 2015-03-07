@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RobotRemote</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_control">ControlActivity</string>
+    <string name="forward">F</string>
+    <string name="backward">B</string>
+    <string name="left">L</string>
+    <string name="right">R</string>
+    <string name="backLeft">L</string>
+    <string name="backRight">R</string>
+    <string name="stop">S</string>
+    <string name="distance">Distance safety</string>
+	<string name="line">Line safety</string>
+	<string name="quit">Quit</string>
+</resources>
+

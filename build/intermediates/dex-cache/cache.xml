@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/obulpathi/android/controller/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/home/obulpathi/android/controller/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-ad60c36750c138d08b7b398a2d3f54848d3d1e84.jar" />
+    </item>
+    <item
+        jar="/home/obulpathi/android/controller/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/home/obulpathi/android/controller/Application/build/intermediates/pre-dexed/debug/classes-2c1a8d12b99dec11220aa5fae718058f80a21f16.jar" />
+    </item>
+    <item
+        jar="/home/obulpathi/android/controller/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/obulpathi/android/controller/Application/build/intermediates/pre-dexed/debug/classes-b8817edc9e47b15362e807fef3513a3fc78a9dc2.jar" />
+    </item>
+    <item
+        jar="/home/obulpathi/android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/home/obulpathi/android/controller/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-9b255425a59e64d09b47f379a053759fa415fd49.jar" />
+    </item>
+    <item
+        jar="/home/obulpathi/android/controller/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/obulpathi/android/controller/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-72c955548386bdea00f9b15fca22a5325cefbb8a.jar" />
+    </item>
+    <item
+        jar="/home/obulpathi/android/controller/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/home/obulpathi/android/controller/Application/build/intermediates/pre-dexed/debug/classes-1d3243a575644bbc01f6fdb198d37a1b9dae6cef.jar" />
+    </item>
+
+</items>
